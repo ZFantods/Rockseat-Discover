@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+/* create light/dark */
 :root {
   --text-color: white;
   --bg-url: url(./assets/bg-mobile.jpg);
